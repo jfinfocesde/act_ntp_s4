@@ -466,159 +466,159 @@
     "evaluatedAt": "2025-08-20T01:46:46.304Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "jechavarr/act_ntp_s4": {
-    "repositoryUrl": "jechavarr/act_ntp_s4",
-    "studentName": "julian echavarria",
+  "Samuel0490/act_ntp_s4": {
+    "repositoryUrl": "Samuel0490/act_ntp_s4",
+    "studentName": "Samuel Alvis Bornacelly",
     "activities": [
       {
         "activityDescription": "LISTAS - Ejercicio 1: Crea una función que reciba una lista de números y use un ciclo for para devolver una nueva lista con solo los números pares. Prueba la función con la lista [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].",
         "solutionFile": "src/ejercicio_01.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y completa. El código es limpio, bien estructurado y sigue buenas prácticas al usar nombres descriptivos y comentarios claros."
+        "feedback": "La solución es correcta y bien estructurada. El código es legible y cumple con la descripción de la actividad. Buen trabajo."
       },
       {
         "activityDescription": "LISTAS - Ejercicio 2: Implementa una función que solicite al usuario ingresar calificaciones usando un ciclo while hasta que escriba 'fin'. Almacena las calificaciones en una lista y calcula el promedio, la nota más alta y más baja.",
         "solutionFile": "src/ejercicio_02.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, funcional y maneja correctamente la entrada del usuario, incluyendo validaciones y casos borde. Bien hecho."
+        "feedback": "La solución es correcta, clara y completa. El código es legible y maneja correctamente la entrada del usuario y los cálculos solicitados."
       },
       {
         "activityDescription": "LISTAS - Ejercicio 3: Crea una función que reciba dos listas de igual tamaño y use un ciclo for para combinarlas elemento por elemento en una nueva lista. Ejemplo: [1,2,3] + ['a','b','c'] = [1,'a',2,'b',3,'c'].",
         "solutionFile": "src/ejercicio_03.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta, clara y eficiente. El código está bien estructurado y sigue las buenas prácticas, incluyendo la validación del tamaño de las listas."
+        "feedback": "La solución es correcta, clara y bien estructurada. El código incluye validación del tamaño de las listas y una prueba funcional, demostrando buenas prácticas."
       },
       {
         "activityDescription": "LISTAS - Ejercicio 4: Desarrolla una función que simule un carrito de compras. Usa una lista para almacenar productos y un ciclo while para mostrar un menú que permita agregar, eliminar, mostrar productos y calcular el total.",
         "solutionFile": "src/ejercicio_04.py",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución es funcional y cumple con los requisitos. Se sugiere mejorar la gestión de errores al eliminar productos (por ejemplo, si hay productos con el mismo nombre) y modularizar el código en funciones más pequeñas para mejorar la legibilidad."
+        "feedback": "La solución cumple con los requisitos. Se podría mejorar la gestión de errores al eliminar productos (manejar el caso en que el carrito esté vacío) y usar funciones auxiliares para modularizar el código."
       },
       {
         "activityDescription": "LISTAS - Ejercicio 5: Implementa una función que reciba una lista de palabras y use ciclos anidados para encontrar y devolver todas las palabras que contienen una letra específica ingresada por el usuario.",
         "solutionFile": "src/ejercicio_05.py",
         "score": 4,
         "fileFound": true,
-        "feedback": "La función cumple con el objetivo, utilizando ciclos anidados para la búsqueda.  Podría mejorarse la robustez validando la entrada del usuario (asegurarse de que ingresa solo una letra) y considerar usar conjuntos para evitar duplicados en la lista de resultados."
+        "feedback": "La solución es correcta y funcional, utilizando ciclos anidados de forma adecuada. Se puede mejorar la modularidad separando la lógica de entrada del usuario de la función principal. Considera validar que la entrada del usuario sea una sola letra."
       },
       {
         "activityDescription": "TUPLAS - Ejercicio 6: Crea una función que genere una tupla con las coordenadas (x, y) de 10 puntos aleatorios. Usa un ciclo for para calcular cuáles puntos están dentro de un círculo de radio 5 centrado en el origen.",
         "solutionFile": "src/ejercicio_06.py",
-        "score": 4,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional. Se podría mejorar la claridad separando la generación de puntos y el cálculo de puntos dentro del círculo en funciones separadas para mayor modularidad."
+        "feedback": "Excelente solución. El código es claro, bien estructurado y resuelve el problema planteado eficientemente. Incluye la generación de puntos aleatorios, el cálculo de la distancia y la identificación correcta de los puntos dentro del círculo."
       },
       {
         "activityDescription": "TUPLAS - Ejercicio 7: Desarrolla una función que reciba una tupla de estudiantes (nombre, edad, promedio) y use un ciclo for para encontrar y devolver una nueva tupla solo con los estudiantes que tienen promedio mayor a 8.0.",
         "solutionFile": "src/ejercicio_07.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y bien estructurada. El código es legible y cumple con la descripción de la actividad, usando buenas prácticas al desempaquetar la tupla y convertir la lista resultante de nuevo a tupla."
+        "feedback": "La solución es correcta, clara y bien estructurada. El código cumple con todos los requisitos de la actividad y sigue buenas prácticas."
       },
       {
         "activityDescription": "TUPLAS - Ejercicio 8: Implementa una función que cree una tupla con los primeros 20 números de la secuencia de Fibonacci. Usa un ciclo while para generar la secuencia y luego un ciclo for para mostrar solo los números impares.",
         "solutionFile": "src/ejercicio_08.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta, clara y bien estructurada. El código cumple con todos los requisitos del problema y utiliza buenas prácticas."
+        "feedback": "La solución es correcta y eficiente. El código es legible, bien estructurado y cumple con todos los requisitos de la actividad. Podría añadirse documentación (docstrings) a la función para mejorar aún más la claridad."
       },
       {
         "activityDescription": "TUPLAS - Ejercicio 9: Crea una función que simule un sistema de coordenadas. Recibe una tupla de puntos (x, y) y usa ciclos para calcular la distancia total recorrida si se visitan todos los puntos en orden.",
         "solutionFile": "src/ejercicio_09.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es limpio, eficiente y resuelve correctamente el problema planteado. Se utilizan buenas prácticas y la función es clara y bien documentada."
+        "feedback": "La solución es correcta y eficiente. El código es claro, bien estructurado y utiliza buenas prácticas como el uso de `math.sqrt` para el cálculo de la distancia euclidiana. ¡Excelente trabajo!"
       },
       {
         "activityDescription": "TUPLAS - Ejercicio 10: Desarrolla una función que reciba dos tuplas de igual longitud y use un ciclo for para crear una nueva tupla con la suma de elementos correspondientes. Ejemplo: (1,2,3) + (4,5,6) = (5,7,9).",
         "solutionFile": "src/ejercicio_10.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, funcional y maneja correctamente el caso de error cuando las tuplas no tienen la misma longitud. La conversión final a tupla es adecuada."
+        "feedback": "La solución es correcta y eficiente. El código es legible, bien estructurado y cumple con el objetivo propuesto. Se incluye validación de la longitud de las tuplas y conversión explícita a tupla al final."
       },
       {
         "activityDescription": "CONJUNTOS - Ejercicio 11: Crea una función que reciba dos listas y use ciclos for para convertirlas en conjuntos. Luego calcula y muestra la unión, intersección, diferencia y diferencia simétrica entre ambos conjuntos.",
         "solutionFile": "src/ejercicio_11.py",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional. Podrías simplificar la creación de los conjuntos usando `set(lista)` en lugar de bucles for, lo cual es más conciso y Pythonico."
+        "feedback": "La solución es correcta y funcional. Se podría mejorar la legibilidad utilizando comprensión de conjuntos en lugar de ciclos for para crear los conjuntos."
       },
       {
         "activityDescription": "CONJUNTOS - Ejercicio 12: Implementa una función que solicite al usuario ingresar palabras usando un ciclo while hasta que escriba 'salir'. Almacena las palabras en un conjunto y muestra cuántas palabras únicas se ingresaron y cuáles se repitieron.",
         "solutionFile": "src/ejercicio_12.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta, eficiente y bien estructurada. Utiliza un conjunto y un diccionario de manera efectiva para resolver el problema. Buen uso de normalización y presentación de resultados."
+        "feedback": "Excelente solución. El código es claro, eficiente y cumple con todos los requisitos de la actividad. Utiliza buenas prácticas al normalizar la entrada y al estructurar la lógica del programa."
       },
       {
         "activityDescription": "CONJUNTOS - Ejercicio 13: Desarrolla una función que genere dos conjuntos: uno con números pares del 2 al 20 y otro con múltiplos de 3 del 3 al 30. Usa ciclos for para crear los conjuntos y muestra todas las operaciones entre ellos.",
         "solutionFile": "src/ejercicio_13.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, conciso y resuelve el problema planteado correctamente. Se implementan buenas prácticas y se cumplen todos los requisitos."
+        "feedback": "La solución es correcta y bien estructurada. El código es legible, eficiente y cumple con todos los requisitos de la actividad."
       },
       {
         "activityDescription": "CONJUNTOS - Ejercicio 14: Crea una función que simule un sistema de votación. Usa un conjunto para almacenar los votos únicos y un ciclo while para permitir que múltiples usuarios voten. Al final, muestra los candidatos que recibieron votos.",
         "solutionFile": "src/ejercicio_14.py",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, funcional y utiliza correctamente conjuntos para evitar votos duplicados. Bien implementado el conteo de votos por candidato."
+        "feedback": "La solución es correcta y funcional. El uso de conjuntos para evitar votos duplicados es adecuado. Se puede mejorar la legibilidad separando la lógica de entrada/validación de la lógica de conteo de votos en funciones separadas."
       },
       {
         "activityDescription": "CONJUNTOS - Ejercicio 15: Implementa una función que reciba una lista de números con duplicados y use un ciclo for para crear un conjunto con números únicos. Luego compara el tamaño original vs el conjunto para mostrar cuántos duplicados había.",
         "solutionFile": "src/ejercicio_15.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta, clara y concisa. Cumple con todos los requisitos de la actividad, incluyendo el uso del ciclo `for` y la correcta identificación de duplicados. Buen trabajo."
+        "feedback": "La solución es correcta y bien estructurada. El código es legible y cumple con el objetivo de la actividad utilizando un ciclo for para crear el conjunto y calcular los duplicados."
       },
       {
         "activityDescription": "DICCIONARIOS - Ejercicio 16: Crea una función que simule un inventario de productos. Usa un diccionario para almacenar producto:cantidad y un ciclo while para mostrar un menú que permita agregar, actualizar, eliminar productos y mostrar el inventario completo.",
         "solutionFile": "src/ejercicio_16.py",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución es funcional y resuelve el problema planteado. Se podría mejorar la validación de entrada (por ejemplo, verificar que la cantidad sea un número positivo) y considerar el uso de funciones auxiliares para modularizar el código."
+        "feedback": "La solución cumple con los requisitos del problema. Se puede mejorar la validación de entrada (ej: asegurar que la cantidad ingresada sea un entero positivo) y considerar el uso de funciones auxiliares para organizar mejor el código."
       },
       {
         "activityDescription": "DICCIONARIOS - Ejercicio 17: Desarrolla una función que reciba una frase y use un ciclo for para crear un diccionario que cuente la frecuencia de cada palabra. Ignora mayúsculas/minúsculas y muestra las palabras ordenadas por frecuencia.",
         "solutionFile": "src/ejercicio_17.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, conciso y cumple con todos los requisitos del ejercicio. Bien hecho!"
+        "feedback": "Excelente solución. El código es claro, funcional y cumple con todos los requisitos, incluyendo el manejo de mayúsculas/minúsculas y el ordenamiento por frecuencia. Bien hecho."
       },
       {
         "activityDescription": "DICCIONARIOS - Ejercicio 18: Implementa una función que simule una agenda telefónica usando un diccionario. Usa un ciclo while para mostrar un menú que permita agregar contactos, buscar por nombre, mostrar todos los contactos y eliminar contactos.",
         "solutionFile": "src/ejercicio_18.py",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La solución es correcta y cumple con todos los requisitos. El código es limpio, bien estructurado y fácil de entender. ¡Excelente trabajo!"
+        "feedback": "La solución es correcta y funcional. El código está bien estructurado y es legible. Se podría mejorar la validación de la entrada del usuario (ej: validar que el teléfono sea un número)."
       },
       {
         "activityDescription": "DICCIONARIOS - Ejercicio 19: Crea una función que gestione las calificaciones de estudiantes. Usa un diccionario donde la clave sea el nombre del estudiante y el valor una lista de calificaciones. Implementa funciones para agregar estudiantes, agregar calificaciones y calcular promedios.",
         "solutionFile": "src/ejercicio_19.py",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución es funcional y cumple con los requisitos. Podrías mejorar la estructura organizando las funciones fuera de `gestion_calificaciones` para mayor claridad y reusabilidad."
+        "feedback": "La solución es funcional y bien estructurada, cumpliendo con los requisitos. Podría mejorarse la validación de entrada de datos y la organización del código en funciones más pequeñas para aumentar la legibilidad."
       },
       {
         "activityDescription": "DICCIONARIOS - Ejercicio 20: Desarrolla una función que simule un sistema de registro de temperaturas por ciudad. Usa un diccionario anidado donde cada ciudad tenga un diccionario con días de la semana y temperaturas. Calcula estadísticas por ciudad y día.",
         "solutionFile": "src/ejercicio_20.py",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución es funcional y cumple con los requisitos. Se puede mejorar la modularización dividiendo la función `sistema_temperaturas` en funciones más pequeñas para aumentar la legibilidad y mantenibilidad del código."
+        "feedback": "La solución cumple con los requisitos de la actividad y ofrece un menú interactivo funcional. Se podría mejorar la validación de entrada y la modularización del código para hacerlo más legible y mantenible."
       }
     ],
-    "overallScore": 4.65,
+    "overallScore": 4.6,
     "totalActivities": 20,
     "completedActivities": 20,
-    "summary": "Excelente trabajo. Completó 20/20 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Excelente trabajo. Completó 20/20 actividades (100%) con una calificación promedio de 4.6/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-20T01:51:23.390Z",
+    "evaluatedAt": "2025-08-20T01:53:43.998Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
