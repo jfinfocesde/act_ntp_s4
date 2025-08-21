@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 26384
+/Length 26373
 >>
 stream
 0.5670000000000001 w
@@ -48,14 +48,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 21/8/2025, 7:52:47) Tj
+(Fecha de evaluación: 21/8/2025, 8:55:29) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 677.0081102362204319 Td
-(Evaluado por: Sistema de Evaluación de No Calificados) Tj
+(Evaluado por: Sistema de Evaluación Masiva) Tj
 ET
 BT
 /F2 12 Tf
@@ -69,21 +69,21 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 623.827007874015635 Td
-(Calificación general: 2.0/5.0) Tj
+(Calificación general: 2.1/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 608.1577165354329964 Td
-(Actividades completadas: 17/20) Tj
+(Actividades completadas: 18/20) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 592.4884251968503577 Td
-(Porcentaje de completitud: 85.0%) Tj
+(Porcentaje de completitud: 90.0%) Tj
 ET
 BT
 /F2 12 Tf
@@ -486,7 +486,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 421.853385826771671 Td
-(4.0) Tj
+(5.0) Tj
 ET
 1. g
 0.78 G
@@ -681,7 +681,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 364.2533858267715914 Td
-(0.0) Tj
+(1.0) Tj
 ET
 1. g
 0.78 G
@@ -1138,7 +1138,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 220.653385826771455 Td
-(0.0) Tj
+(1.0) Tj
 ET
 1. g
 0.78 G
@@ -1321,7 +1321,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 153.8533858267715004 Td
-(Sí) Tj
+(No) Tj
 ET
 1. g
 0.78 G
@@ -1334,7 +1334,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 153.8533858267715004 Td
-(1.0) Tj
+(0.0) Tj
 ET
 1. g
 0.78 G
@@ -1500,7 +1500,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 5414
+/Length 5243
 >>
 stream
 0.5670000000000001 w
@@ -1554,8 +1554,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 652.0081102362204319 Td
-(La solución es correcta y eficiente. El código es legible y sigue las buenas prácticas al separar la lógica en una) Tj
-T* (función y luego aplicarla a la lista de prueba.) Tj
+(La solución es correcta, clara y cumple con todos los requisitos. El código es legible y sigue las buenas prácticas) Tj
+T* (de programación.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1599,8 +1599,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 514.9884251968503577 Td
-(Excelente solución. El código es limpio, funcional y cumple con todos los requisitos de la actividad. Bien manejado) Tj
-T* (el control de errores.) Tj
+(Excelente solución. El código es claro, funcional y maneja correctamente la entrada del usuario, incluyendo la) Tj
+T* (validación y el caso de no ingresar calificaciones.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1643,14 +1643,13 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 389.4687401574803403 Td
-(La solución es correcta y eficiente. El código es legible, bien estructurado y maneja el caso de listas de diferente) Tj
-T* (tamaño. ¡Excelente trabajo!) Tj
+(La solución es correcta, eficiente y legible. El código incluye manejo de errores y buenas prácticas en general.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 353.7955118110236867 Td
+39.6850393700787407 365.2955118110236867 Td
 (Actividad 4: LISTAS - Ejercicio 4: Desarrolla una función que simule un carrito de compras. Usa una lista) Tj
 T* (para almacenar productos y un ciclo while para mostrar un menú que permita agregar, eliminar, mostrar) Tj
 T* (productos y calcular el total.) Tj
@@ -1659,44 +1658,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 315.1262204724409912 Td
+51.0236220472441033 326.6262204724409912 Td
 (Archivo esperado: src/ejercicio_04.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 299.4569291338583525 Td
+51.0236220472441033 310.9569291338583525 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 283.7876377952756002 Td
+51.0236220472441033 295.2876377952757139 Td
 (Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 268.1183464566929615 Td
+51.0236220472441033 279.6183464566930752 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 252.4490551181103228 Td
-(La solución cumple con los requisitos principales y funciona correctamente. Se podría mejorar el manejo de la) Tj
-T* (eliminación de productos para evitar el `if not encontrado` dentro del bucle. Considera usar un diccionario en lugar) Tj
-T* (de una lista de tuplas para una mejor estructura.) Tj
+62.3622047244094517 263.9490551181104365 Td
+(La solución cumple con los requisitos y es funcional. La lógica para eliminar productos puede mejorarse para evitar) Tj
+T* (errores si el producto no existe. Considera usar funciones para modularizar aún más el código.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 205.2758267716536693 Td
+39.6850393700787407 228.275826771653783 Td
 (Actividad 5: LISTAS - Ejercicio 5: Implementa una función que reciba una lista de palabras y use ciclos) Tj
 T* (anidados para encontrar y devolver todas las palabras que contienen una letra específica ingresada por el) Tj
 T* (usuario.) Tj
@@ -1705,37 +1703,37 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 166.6065354330710306 Td
+51.0236220472441033 189.6065354330710306 Td
 (Archivo esperado: src/ejercicio_05.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 150.937244094488392 Td
+51.0236220472441033 173.937244094488392 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 135.2679527559057533 Td
-(Calificación: 4.0/5.0) Tj
+51.0236220472441033 158.2679527559056396 Td
+(Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 119.5986614173230009 Td
+51.0236220472441033 142.5986614173230009 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 103.9293700787403623 Td
-(La solución es correcta y funcional. Bien por el uso del `break` para evitar duplicados. Considera agregar manejo) Tj
-T* (de errores para entradas inválidas \(e.g., entrada vacía\).) Tj
+62.3622047244094517 126.9293700787403623 Td
+(Excelente solución. El código es funcional, legible y eficiente, evitando duplicados en la lista de resultados. Bien) Tj
+T* (hecho.) Tj
 ET
 BT
 /F1 8 Tf
@@ -1763,7 +1761,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 5564
+/Length 5533
 >>
 stream
 0.5670000000000001 w
@@ -1810,8 +1808,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 683.8506299212598378 Td
-(La solución es correcta y funcional. Se podría mejorar la legibilidad encapsulando la lógica de verificación dentro) Tj
-T* (del círculo en una función separada para mejor modularidad y reutilización.) Tj
+(La solución es correcta y funcional. Se podría mejorar la legibilidad separando la generación de coordenadas y el) Tj
+T* (filtrado de puntos en funciones separadas para mejor organización del código.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1855,14 +1853,15 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 546.8309448818897636 Td
-(La solución no cumple con la descripción del problema \(tupla de estudiantes con nombre, edad y promedio\).) Tj
-T* (Además, debería devolver una nueva tupla en lugar de imprimir directamente en la función.) Tj
+(El código no cumple con la descripción del problema. No recibe una tupla de estudiantes como entrada y no) Tj
+T* (devuelve una nueva tupla con los estudiantes destacados. El código simplemente imprime los estudiantes con) Tj
+T* (promedio mayor o igual a 3.5.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 511.1577165354330532 Td
+39.6850393700787407 499.65771653543311 Td
 (Actividad 8: TUPLAS - Ejercicio 8: Implementa una función que cree una tupla con los primeros 20) Tj
 T* (números de la secuencia de Fibonacci. Usa un ciclo while para generar la secuencia y luego un ciclo for) Tj
 T* (para mostrar solo los números impares.) Tj
@@ -1871,44 +1870,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 472.4884251968503577 Td
+51.0236220472441033 460.9884251968504714 Td
 (Archivo esperado: src/ejercicio_08.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 456.819133858267719 Td
+51.0236220472441033 445.3191338582677758 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 441.1498425196850235 Td
-(Calificación: 0.0/5.0) Tj
+51.0236220472441033 429.6498425196851372 Td
+(Calificación: 1.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 425.4805511811023848 Td
+51.0236220472441033 413.9805511811024417 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 409.8112598425196893 Td
-(El código entregado no corresponde con la descripción del ejercicio \(generar la secuencia de Fibonacci y mostrar) Tj
-T* (los impares\). El código dado cuenta la frecuencia de colores favoritos, lo que indica un error en la entrega o un) Tj
-T* (malentendido del problema.) Tj
+62.3622047244094517 398.311259842519803 Td
+(El código no implementa la secuencia de Fibonacci ni cumple con los requisitos del ejercicio planteado. En cambio,) Tj
+T* (realiza un conteo de colores favoritos. Debe rehacerse completamente.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 362.6380314960630358 Td
+39.6850393700787407 362.6380314960631495 Td
 (Actividad 9: TUPLAS - Ejercicio 9: Crea una función que simule un sistema de coordenadas. Recibe una) Tj
 T* (tupla de puntos \(x, y\) y usa ciclos para calcular la distancia total recorrida si se visitan todos los puntos en) Tj
 T* (orden.) Tj
@@ -1946,9 +1944,9 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 261.2915748031497287 Td
-(La solución provista elimina duplicados de una tupla de nombres, pero no cumple con el objetivo principal del) Tj
-T* (ejercicio que era calcular la distancia total recorrida en un sistema de coordenadas. El código necesita ser reescrito) Tj
-T* (para implementar la lógica solicitada en la descripción del problema.) Tj
+(El código proporcionado no resuelve el problema planteado \(cálculo de la distancia total recorrida en un sistema de) Tj
+T* (coordenadas\). En cambio, elimina duplicados de una tupla de nombres. Es necesario implementar la lógica para) Tj
+T* (calcular la distancia entre puntos y sumarlos.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1992,8 +1990,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 112.7718897637798818 Td
-(El código no resuelve el problema planteado \(suma de tuplas\). Implementa una función diferente que filtra) Tj
-T* (nombres. Debes enfocarte en entender y cumplir los requisitos de la actividad.) Tj
+(El código entregado no resuelve el problema planteado sobre la suma de tuplas. En su lugar, filtra nombres que) Tj
+T* (contienen la letra 'a'. Es necesario implementar la lógica de suma de tuplas usando un ciclo for.) Tj
 ET
 BT
 /F1 8 Tf
@@ -2021,7 +2019,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 5940
+/Length 5631
 >>
 stream
 0.5670000000000001 w
@@ -2068,9 +2066,9 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 683.8506299212598378 Td
-(La solución solo muestra un conjunto a partir de una lista y su longitud, pero no recibe dos listas como entrada, ni) Tj
-T* (calcula la unión, intersección, diferencia y diferencia simétrica.  Además, el código debería seguir la descripción de) Tj
-T* (la actividad \(usar ciclos for para convertir listas en conjuntos\) y no usar directamente `set\(\)`.) Tj
+(El código solo maneja una lista fija y muestra un conjunto sin duplicados. No cumple con la descripción del) Tj
+T* (ejercicio, que pide crear una función que reciba dos listas, las convierta en conjuntos usando ciclos for, y calcule la) Tj
+T* (unión, intersección, diferencia y diferencia simétrica.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2114,15 +2112,14 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 535.3309448818897636 Td
-(El código no cumple con la descripción de la actividad. En lugar de solicitar palabras al usuario y almacenarlas en) Tj
-T* (un conjunto hasta que escriba 'salir', simplemente calcula la intersección de dos conjuntos predefinidos.  Debe) Tj
-T* (implementar la lógica de entrada de usuario y el uso del conjunto como se describe en la consigna.) Tj
+(El código no resuelve el problema planteado. Implementa la intersección de dos conjuntos predefinidos en lugar de) Tj
+T* (solicitar palabras al usuario e identificar repetidas.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 488.15771653543311 Td
+39.6850393700787407 499.65771653543311 Td
 (Actividad 13: CONJUNTOS - Ejercicio 13: Desarrolla una función que genere dos conjuntos: uno con) Tj
 T* (números pares del 2 al 20 y otro con múltiplos de 3 del 3 al 30. Usa ciclos for para crear los conjuntos y) Tj
 T* (muestra todas las operaciones entre ellos.) Tj
@@ -2131,44 +2128,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 449.4884251968503577 Td
+51.0236220472441033 460.9884251968504714 Td
 (Archivo esperado: src/ejercicio_13.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 433.819133858267719 Td
+51.0236220472441033 445.3191338582677758 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 418.1498425196850803 Td
+51.0236220472441033 429.6498425196851372 Td
 (Calificación: 1.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 402.4805511811023848 Td
+51.0236220472441033 413.9805511811024417 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 386.8112598425197461 Td
-(El código no resuelve el problema planteado \(generar conjuntos de números pares y múltiplos de 3 y realizar) Tj
-T* (operaciones entre ellos\). En su lugar, realiza operaciones con un conjunto de frutas. El código debe ser reescrito) Tj
-T* (para cumplir con la descripción de la actividad.) Tj
+62.3622047244094517 398.311259842519803 Td
+(El código presentado no corresponde a la descripción de la actividad \(Conjuntos con pares y múltiplos de 3\). El) Tj
+T* (código actual elimina un elemento de un conjunto de frutas, lo cual es incorrecto.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 339.6380314960630926 Td
+39.6850393700787407 362.6380314960631495 Td
 (Actividad 14: CONJUNTOS - Ejercicio 14: Crea una función que simule un sistema de votación. Usa un) Tj
 T* (conjunto para almacenar los votos únicos y un ciclo while para permitir que múltiples usuarios voten. Al) Tj
 T* (final, muestra los candidatos que recibieron votos.) Tj
@@ -2177,43 +2173,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 300.9687401574803971 Td
+51.0236220472441033 323.9687401574803971 Td
 (Archivo esperado: src/ejercicio_14.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 285.2994488188977584 Td
+51.0236220472441033 308.2994488188977584 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 269.6301574803151198 Td
+51.0236220472441033 292.6301574803151198 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 253.9608661417324811 Td
+51.0236220472441033 276.9608661417324811 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 238.2915748031498424 Td
-(El código entregado no resuelve el problema planteado. El código provisto imprime la edad de personas desde un) Tj
-T* (diccionario, en lugar de simular un sistema de votación utilizando conjuntos y un ciclo while.) Tj
+62.3622047244094517 261.2915748031497287 Td
+(El código no resuelve el problema planteado de simular un sistema de votación. En cambio, imprime la edad de) Tj
+T* (personas desde un diccionario. Es necesario revisar y rehacer la actividad.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 202.6183464566930752 Td
+39.6850393700787407 225.6183464566930752 Td
 (Actividad 15: CONJUNTOS - Ejercicio 15: Implementa una función que reciba una lista de números con) Tj
 T* (duplicados y use un ciclo for para crear un conjunto con números únicos. Luego compara el tamaño) Tj
 T* (original vs el conjunto para mostrar cuántos duplicados había.) Tj
@@ -2222,38 +2218,38 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 163.9490551181104365 Td
+51.0236220472441033 186.9490551181104365 Td
 (Archivo esperado: src/ejercicio_15.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 148.2797637795277979 Td
+51.0236220472441033 171.2797637795276842 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 132.6104724409450455 Td
-(Calificación: 0.0/5.0) Tj
+51.0236220472441033 155.6104724409450455 Td
+(Calificación: 1.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 116.9411811023624068 Td
+51.0236220472441033 139.9411811023624068 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 101.2718897637797681 Td
-(El código proporcionado no resuelve el problema planteado en la descripción del ejercicio. Implementa una función) Tj
-T* (para imprimir nombres de personas mayores de 25 años, en lugar de crear un conjunto a partir de una lista con) Tj
-T* (duplicados y contar los duplicados.) Tj
+62.3622047244094517 124.2718897637797681 Td
+(La solución no resuelve el problema planteado \(conjuntos y conteo de duplicados\). El código presentado) Tj
+T* (corresponde a un problema diferente relacionado con diccionarios e impresión de nombres. Es necesario) Tj
+T* (implementar la lógica solicitada utilizando conjuntos y un ciclo for.) Tj
 ET
 BT
 /F1 8 Tf
@@ -2281,7 +2277,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Length 6007
+/Length 5461
 >>
 stream
 0.5670000000000001 w
@@ -2328,15 +2324,14 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 683.8506299212598378 Td
-(El código no implementa la funcionalidad requerida de inventario con agregar, actualizar, eliminar productos y) Tj
-T* (mostrar el inventario. Hay un error lógico `if producto in producto:` que siempre será falso y el diccionario) Tj
-T* (`productos` está hardcodeado y no permite la manipulación interactiva.) Tj
+(El código no implementa la funcionalidad requerida de un inventario con agregar/actualizar/eliminar. El código) Tj
+T* (provisto calcula el total de una compra y tiene un error lógico en la iteración `if producto in producto:`. ) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 636.6774015748030706 Td
+39.6850393700787407 648.1774015748030706 Td
 (Actividad 17: DICCIONARIOS - Ejercicio 17: Desarrolla una función que reciba una frase y use un ciclo for) Tj
 T* (para crear un diccionario que cuente la frecuencia de cada palabra. Ignora mayúsculas/minúsculas y) Tj
 T* (muestra las palabras ordenadas por frecuencia.) Tj
@@ -2345,44 +2340,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 598.0081102362204319 Td
+51.0236220472441033 609.5081102362204319 Td
 (Archivo esperado: src/ejercicio_17.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 582.3388188976377933 Td
+51.0236220472441033 593.8388188976377933 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 566.6695275590550409 Td
+51.0236220472441033 578.1695275590550409 Td
 (Calificación: 1.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 551.0002362204725159 Td
+51.0236220472441033 562.5002362204725159 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 535.3309448818897636 Td
-(El código entregado no resuelve la actividad descrita \(conteo de frecuencia de palabras en una frase\). En cambio,) Tj
-T* (encuentra el estudiante con la nota más alta en un diccionario predefinido.  Necesitas implementar la lógica) Tj
-T* (solicitada en la descripción del ejercicio.) Tj
+62.3622047244094517 546.8309448818897636 Td
+(El código presentado no resuelve el problema planteado. En lugar de contar la frecuencia de las palabras en una) Tj
+T* (frase, encuentra al estudiante con la nota más alta en un diccionario predefinido.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 488.15771653543311 Td
+39.6850393700787407 511.1577165354330532 Td
 (Actividad 18: DICCIONARIOS - Ejercicio 18: Implementa una función que simule una agenda telefónica) Tj
 T* (usando un diccionario. Usa un ciclo while para mostrar un menú que permita agregar contactos, buscar) Tj
 T* (por nombre, mostrar todos los contactos y eliminar contactos.) Tj
@@ -2391,44 +2385,28 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 449.4884251968503577 Td
+51.0236220472441033 472.4884251968503577 Td
 (Archivo esperado: src/ejercicio_18.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 433.819133858267719 Td
-(Estado: Archivo encontrado) Tj
+51.0236220472441033 456.819133858267719 Td
+(Estado: Archivo no encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 418.1498425196850803 Td
-(Calificación: 1.0/5.0) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 402.4805511811023848 Td
-(Retroalimentación:) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-62.3622047244094517 386.8112598425197461 Td
-(El código entregado no corresponde a la descripción del ejercicio \(agenda telefónica\). Implementa un cálculo del) Tj
-T* (total de una compra, lo cual no cumple con lo solicitado. Debes enfocarte en implementar la funcionalidad requerida) Tj
-T* (usando diccionarios y un ciclo while.) Tj
+51.0236220472441033 441.1498425196850235 Td
+(Calificación: 0.0/5.0) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 339.6380314960630926 Td
+39.6850393700787407 416.97661417322837 Td
 (Actividad 19: DICCIONARIOS - Ejercicio 19: Crea una función que gestione las calificaciones de) Tj
 T* (estudiantes. Usa un diccionario donde la clave sea el nombre del estudiante y el valor una lista de) Tj
 T* (calificaciones. Implementa funciones para agregar estudiantes, agregar calificaciones y calcular) Tj
@@ -2438,44 +2416,44 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 289.4687401574803971 Td
+51.0236220472441033 366.8073228346456176 Td
 (Archivo esperado: src/ejercicio_19.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 273.7994488188977584 Td
+51.0236220472441033 351.1380314960629789 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 258.1301574803150061 Td
+51.0236220472441033 335.4687401574803403 Td
 (Calificación: 1.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 242.4608661417323674 Td
+51.0236220472441033 319.7994488188976447 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 226.7915748031497287 Td
-(El código no cumple con la descripción de la actividad. Se esperaba la gestión de calificaciones de estudiantes) Tj
-T* (usando diccionarios y funciones para agregar, calificar y calcular promedios, en cambio, el código dado solo) Tj
-T* (imprime nombres de personas mayores de edad a partir de un diccionario predefinido.) Tj
+62.3622047244094517 304.1301574803150061 Td
+(La solución no implementa la funcionalidad solicitada en la descripción del ejercicio \(gestión de calificaciones con) Tj
+T* (diccionarios\). El código presentado imprime nombres de personas mayores de edad, que no corresponde con la) Tj
+T* (actividad. Es necesario ajustar el código para cumplir con la gestión de estudiantes y sus calificaciones.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 179.6183464566930752 Td
+39.6850393700787407 256.9569291338583525 Td
 (Actividad 20: DICCIONARIOS - Ejercicio 20: Desarrolla una función que simule un sistema de registro de) Tj
 T* (temperaturas por ciudad. Usa un diccionario anidado donde cada ciudad tenga un diccionario con días de) Tj
 T* (la semana y temperaturas. Calcula estadísticas por ciudad y día.) Tj
@@ -2484,38 +2462,38 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 140.9490551181104365 Td
+51.0236220472441033 218.2876377952757139 Td
 (Archivo esperado: src/ejercicio_20.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 125.2797637795277979 Td
+51.0236220472441033 202.6183464566930752 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 109.6104724409451592 Td
+51.0236220472441033 186.9490551181104365 Td
 (Calificación: 1.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 93.9411811023624068 Td
+51.0236220472441033 171.2797637795276842 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 78.2718897637797681 Td
-(El código presentado calcula el promedio de notas de estudiantes, no simula un sistema de registro de) Tj
-T* (temperaturas por ciudad como se solicitaba. La implementación no cumple con los requisitos del ejercicio) Tj
-T* (planteado.) Tj
+62.3622047244094517 155.6104724409450455 Td
+(La solución presentada no corresponde a la descripción del ejercicio \(registro de temperaturas por ciudad usando) Tj
+T* (diccionarios anidados\).  En su lugar, calcula promedios de notas de estudiantes. Es necesario implementar la) Tj
+T* (lógica solicitada en la descripción.) Tj
 ET
 BT
 /F1 8 Tf
@@ -2543,7 +2521,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Length 1107
+/Length 1241
 >>
 stream
 0.5670000000000001 w
@@ -2560,7 +2538,7 @@ BT
 11.5 TL
 0. g
 39.6850393700787407 761.8585039370078675 Td
-(Necesita mejorar. Completó 17/20 actividades \(85%\) con una calificación promedio de 2.0/5. Se recomienda revisar) Tj
+(Necesita mejorar. Completó 18/20 actividades \(90%\) con una calificación promedio de 2.1/5. Se recomienda revisar) Tj
 T* (los conceptos fundamentales.) Tj
 ET
 BT
@@ -2575,20 +2553,27 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 697.1774015748030706 Td
-(• Revisar y mejorar las actividades con calificación baja) Tj
+(• Completar los archivos faltantes: src/ejercicio_18.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 681.5081102362204319 Td
-(• Enfocarse en mejorar la documentación y comentarios del código) Tj
+(• Revisar y mejorar las actividades con calificación baja) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 665.8388188976377933 Td
+(• Enfocarse en mejorar la documentación y comentarios del código) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 650.1695275590550409 Td
 (• Aplicar mejores prácticas de programación) Tj
 ET
 BT
@@ -2777,7 +2762,7 @@ endobj
 29 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250821075247-05'00')
+/CreationDate (D:20250821085529-05'00')
 >>
 endobj
 30 0 obj
@@ -2791,43 +2776,43 @@ endobj
 xref
 0 31
 0000000000 65535 f 
-0000051574 00000 n 
-0000053428 00000 n 
+0000050640 00000 n 
+0000052494 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000026589 00000 n 
-0000026726 00000 n 
-0000032192 00000 n 
-0000032329 00000 n 
-0000037945 00000 n 
-0000038083 00000 n 
-0000044076 00000 n 
-0000044215 00000 n 
-0000050275 00000 n 
-0000050414 00000 n 
-0000051663 00000 n 
-0000051789 00000 n 
-0000051920 00000 n 
-0000052054 00000 n 
-0000052192 00000 n 
-0000052316 00000 n 
-0000052445 00000 n 
-0000052577 00000 n 
-0000052713 00000 n 
-0000052841 00000 n 
-0000052968 00000 n 
-0000053097 00000 n 
-0000053230 00000 n 
-0000053332 00000 n 
-0000053681 00000 n 
-0000053767 00000 n 
+0000026578 00000 n 
+0000026715 00000 n 
+0000032010 00000 n 
+0000032147 00000 n 
+0000037732 00000 n 
+0000037870 00000 n 
+0000043554 00000 n 
+0000043693 00000 n 
+0000049207 00000 n 
+0000049346 00000 n 
+0000050729 00000 n 
+0000050855 00000 n 
+0000050986 00000 n 
+0000051120 00000 n 
+0000051258 00000 n 
+0000051382 00000 n 
+0000051511 00000 n 
+0000051643 00000 n 
+0000051779 00000 n 
+0000051907 00000 n 
+0000052034 00000 n 
+0000052163 00000 n 
+0000052296 00000 n 
+0000052398 00000 n 
+0000052747 00000 n 
+0000052833 00000 n 
 trailer
 <<
 /Size 31
 /Root 30 0 R
 /Info 29 0 R
-/ID [ <53C687A15B88D3527B6AAF73BDA0B199> <53C687A15B88D3527B6AAF73BDA0B199> ]
+/ID [ <12014F6AFC5AE59581C9C68B66AB5FC5> <12014F6AFC5AE59581C9C68B66AB5FC5> ]
 >>
 startxref
-53871
+52937
 %%EOF
