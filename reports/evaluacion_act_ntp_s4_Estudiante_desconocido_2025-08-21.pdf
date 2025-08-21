@@ -41,14 +41,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 708.346692913385823 Td
-(Repositorio: Sebastian0418/act_ntp_s4) Tj
+(Repositorio: Sebastian0031/act_ntp_s4) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 21/8/2025, 7:40:12) Tj
+(Fecha de evaluación: 21/8/2025, 7:42:44) Tj
 ET
 BT
 /F1 10 Tf
@@ -69,7 +69,7 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 623.827007874015635 Td
-(Calificación general: 4.8/5.0) Tj
+(Calificación general: 4.5/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -421,7 +421,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 441.0533858267716596 Td
-(5.0) Tj
+(4.0) Tj
 ET
 1. g
 0.78 G
@@ -551,7 +551,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 402.6533858267716255 Td
-(5.0) Tj
+(4.0) Tj
 ET
 1. g
 0.78 G
@@ -616,7 +616,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 383.4533858267716369 Td
-(5.0) Tj
+(4.0) Tj
 ET
 1. g
 0.78 G
@@ -681,7 +681,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 364.2533858267715914 Td
-(5.0) Tj
+(4.0) Tj
 ET
 1. g
 0.78 G
@@ -876,7 +876,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 306.6533858267715686 Td
-(4.0) Tj
+(5.0) Tj
 ET
 1. g
 0.78 G
@@ -1334,7 +1334,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 153.8533858267715004 Td
-(5.0) Tj
+(4.0) Tj
 ET
 1. g
 0.78 G
@@ -1500,7 +1500,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 5441
+/Length 5422
 >>
 stream
 0.5670000000000001 w
@@ -1554,8 +1554,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 652.0081102362204319 Td
-(La solución es correcta y eficiente. El código es limpio, legible y cumple con las buenas prácticas. ¡Excelente) Tj
-T* (trabajo!) Tj
+(La solución es correcta, el código es limpio y fácil de entender. Se aplican buenas prácticas al definir una función y) Tj
+T* (usar comentarios.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1599,8 +1599,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 514.9884251968503577 Td
-(La solución es correcta, clara y bien estructurada. Cumple con todos los requisitos de la actividad, incluyendo la) Tj
-T* (validación de entrada y el manejo de casos borde \(no se ingresaron calificaciones\).) Tj
+(Excelente solución. El código es claro, funcional y maneja correctamente la entrada del usuario y los cálculos) Tj
+T* (requeridos.  Se pueden agregar validaciones adicionales \(ej. rango de las notas\) para mayor robustez.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1643,8 +1643,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 389.4687401574803403 Td
-(La solución es correcta y eficiente, cumpliendo con los requisitos del ejercicio. El código es limpio, bien) Tj
-T* (estructurado y fácil de entender, además incluye una verificación del tamaño de las listas.) Tj
+(La solución es correcta y eficiente. El código es limpio y fácil de entender, siguiendo las buenas prácticas para la) Tj
+T* (combinación de listas elemento por elemento.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1674,7 +1674,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 283.7876377952756002 Td
-(Calificación: 5.0/5.0) Tj
+(Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -1688,8 +1688,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 252.4490551181103228 Td
-(Excelente solución. El código es funcional, bien estructurado y fácil de entender. Se aplican buenas prácticas como) Tj
-T* (el manejo de errores y un menú claro.) Tj
+(La solución es funcional y cumple con los requisitos. Se puede mejorar la gestión de errores al eliminar productos y) Tj
+T* (considerar usar un diccionario en lugar de una lista de tuplas para mayor claridad.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1733,9 +1733,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 115.4293700787402486 Td
-(La solución es correcta y funcional. La función cumple con el objetivo, aunque se podría mejorar la eficiencia) Tj
-T* (evitando el ciclo anidado usando el operador `in` de Python \(ej: `if letra in palabra:`\). Buen uso del `break` para) Tj
-T* (optimizar el ciclo.) Tj
+(La solución es correcta y funcional. Se podría mejorar la legibilidad separando la entrada de datos de la función y) Tj
+T* (pasando la letra como argumento en lugar de usar `input\(\)` dentro de la función.) Tj
 ET
 BT
 /F1 8 Tf
@@ -1763,7 +1762,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 5157
+/Length 5454
 >>
 stream
 0.5670000000000001 w
@@ -1796,7 +1795,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 715.1892125984252289 Td
-(Calificación: 5.0/5.0) Tj
+(Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -1810,8 +1809,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 683.8506299212598378 Td
-(La solución es correcta y bien estructurada. El código es legible y sigue buenas prácticas. La función cumple con) Tj
-T* (todos los requisitos del ejercicio.) Tj
+(La solución es correcta y funcional. Se podría mejorar la legibilidad envolviendo la lógica principal en una función) Tj
+T* (que retorne los resultados en lugar de imprimirlos directamente.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1841,7 +1840,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 578.1695275590550409 Td
-(Calificación: 5.0/5.0) Tj
+(Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -1855,14 +1854,15 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 546.8309448818897636 Td
-(La solución es correcta y eficiente. El código es limpio, legible y sigue las buenas prácticas al usar una lista) Tj
-T* (temporal para construir la tupla resultante.) Tj
+(La solución es correcta y funcional. Se puede mejorar la legibilidad usando directamente la desempaquetación de) Tj
+T* (la tupla en el `for` y la creación de la tupla resultado mediante una comprensión de tuplas sería más concisa y) Tj
+T* (Pythonica.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 511.1577165354330532 Td
+39.6850393700787407 499.65771653543311 Td
 (Actividad 8: TUPLAS - Ejercicio 8: Implementa una función que cree una tupla con los primeros 20) Tj
 T* (números de la secuencia de Fibonacci. Usa un ciclo while para generar la secuencia y luego un ciclo for) Tj
 T* (para mostrar solo los números impares.) Tj
@@ -1871,43 +1871,44 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 472.4884251968503577 Td
+51.0236220472441033 460.9884251968504714 Td
 (Archivo esperado: src/ejercicio_08.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 456.819133858267719 Td
+51.0236220472441033 445.3191338582677758 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 441.1498425196850235 Td
-(Calificación: 5.0/5.0) Tj
+51.0236220472441033 429.6498425196851372 Td
+(Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 425.4805511811023848 Td
+51.0236220472441033 413.9805511811024417 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 409.8112598425196893 Td
-(La solución es correcta y eficiente. El código es limpio, bien comentado y sigue las buenas prácticas. ¡Excelente) Tj
-T* (trabajo!) Tj
+62.3622047244094517 398.311259842519803 Td
+(La solución genera correctamente la secuencia de Fibonacci y muestra los impares.  Se podría mejorar la eficiencia) Tj
+T* (de la concatenación de la tupla dentro del bucle `while` \(usar listas es más eficiente para construir, luego convertir) Tj
+T* (a tupla\).  Considera usar nombres de variables más descriptivos.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 374.1380314960630358 Td
+39.6850393700787407 351.1380314960631495 Td
 (Actividad 9: TUPLAS - Ejercicio 9: Crea una función que simule un sistema de coordenadas. Recibe una) Tj
 T* (tupla de puntos \(x, y\) y usa ciclos para calcular la distancia total recorrida si se visitan todos los puntos en) Tj
 T* (orden.) Tj
@@ -1916,43 +1917,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 335.4687401574803403 Td
+51.0236220472441033 312.4687401574805108 Td
 (Archivo esperado: src/ejercicio_09.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 319.7994488188976447 Td
+51.0236220472441033 296.7994488188978721 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 304.1301574803150061 Td
+51.0236220472441033 281.1301574803152334 Td
 (Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 288.4608661417323674 Td
+51.0236220472441033 265.4608661417324811 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 272.7915748031497287 Td
-(La solución es correcta y eficiente. El código es legible y utiliza buenas prácticas, como el uso de `math.sqrt` y la) Tj
-T* (acumulación clara de la distancia.) Tj
+62.3622047244094517 249.7915748031498424 Td
+(La solución es correcta, bien estructurada y cumple con los requisitos. El código es legible y utiliza buenas) Tj
+T* (prácticas. ¡Excelente trabajo!) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 237.1183464566929615 Td
+39.6850393700787407 214.1183464566931889 Td
 (Actividad 10: TUPLAS - Ejercicio 10: Desarrolla una función que reciba dos tuplas de igual longitud y use) Tj
 T* (un ciclo for para crear una nueva tupla con la suma de elementos correspondientes. Ejemplo: \(1,2,3\) +) Tj
 T* (\(4,5,6\) = \(5,7,9\).) Tj
@@ -1961,37 +1962,37 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 198.4490551181103228 Td
+51.0236220472441033 175.4490551181104365 Td
 (Archivo esperado: src/ejercicio_10.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 182.7797637795276842 Td
+51.0236220472441033 159.7797637795277979 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 167.1104724409449318 Td
+51.0236220472441033 144.1104724409451592 Td
 (Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 151.4411811023622931 Td
+51.0236220472441033 128.4411811023625205 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 135.7718897637796545 Td
-(La solución es correcta y eficiente. El código es legible, bien estructurado y maneja el caso de error de longitudes) Tj
-T* (diferentes en las tuplas. Buen trabajo!) Tj
+62.3622047244094517 112.7718897637798818 Td
+(La solución es correcta, clara y eficiente. El código es legible y cumple con la especificación del problema,) Tj
+T* (incluyendo la validación de la longitud de las tuplas.) Tj
 ET
 BT
 /F1 8 Tf
@@ -2019,7 +2020,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 5377
+/Length 5413
 >>
 stream
 0.5670000000000001 w
@@ -2052,7 +2053,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 715.1892125984252289 Td
-(Calificación: 4.0/5.0) Tj
+(Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -2066,8 +2067,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 683.8506299212598378 Td
-(La solución es correcta y funcional. Se podría mejorar la legibilidad usando comprensión de conjuntos en lugar de) Tj
-T* (bucles for para la creación de los conjuntos.) Tj
+(La solución es correcta y completa. El código es legible y bien estructurado, implementando las conversiones de) Tj
+T* (listas a conjuntos con ciclos for tal como se solicitaba y mostrando los resultados de las operaciones de conjuntos.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2111,8 +2112,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 546.8309448818897636 Td
-(La solución es correcta y eficiente. Utiliza un conjunto para las palabras únicas y un diccionario para contar las) Tj
-T* (repeticiones, lo cual es una buena práctica. El código es legible y bien estructurado.) Tj
+(La solución es correcta, eficiente y legible. Cumple con todos los requisitos de la actividad y utiliza buenas) Tj
+T* (prácticas al usar conjuntos para identificar palabras únicas y repetidas.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2156,8 +2157,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 409.8112598425196893 Td
-(La solución es correcta y cumple con todos los requisitos. El código es legible, bien estructurado y demuestra un) Tj
-T* (buen entendimiento de los conjuntos y sus operaciones.) Tj
+(La solución es correcta, bien estructurada y fácil de entender. El código cumple con todos los requisitos de la) Tj
+T* (actividad y muestra las operaciones entre conjuntos de manera clara.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2201,8 +2202,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 272.7915748031497287 Td
-(La solución es correcta, completa y bien estructurada. Implementa la lógica de votación con éxito, utilizando un) Tj
-T* (conjunto para evitar votos duplicados y un diccionario para el conteo.) Tj
+(La solución es correcta, bien estructurada y cumple con todos los requisitos. El código es limpio y fácil de entender,) Tj
+T* (demostrando un buen uso de conjuntos y control de flujo.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2246,8 +2247,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 135.7718897637796545 Td
-(La solución es correcta, clara y concisa. Implementa la lógica solicitada usando un ciclo for para crear el conjunto y) Tj
-T* (calcula correctamente los duplicados.) Tj
+(La solución es correcta y eficiente. El código es claro, bien estructurado y cumple con el objetivo de la actividad.) Tj
+T* (¡Excelente trabajo!) Tj
 ET
 BT
 /F1 8 Tf
@@ -2275,7 +2276,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Length 5637
+/Length 5755
 >>
 stream
 0.5670000000000001 w
@@ -2322,14 +2323,15 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 683.8506299212598378 Td
-(La solución es funcional y cumple con los requisitos. Podría mejorar la validación de entrada \(ej: asegurarse de que) Tj
-T* (la cantidad sea un número positivo\) y separar la lógica en funciones más pequeñas para mayor claridad.) Tj
+(La solución cumple con los requisitos de la actividad y presenta un código legible y funcional. Se podría mejorar) Tj
+T* (agregando validación de entradas y modularizando el código en funciones más pequeñas para una mejor) Tj
+T* (organización.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 648.1774015748030706 Td
+39.6850393700787407 636.6774015748030706 Td
 (Actividad 17: DICCIONARIOS - Ejercicio 17: Desarrolla una función que reciba una frase y use un ciclo for) Tj
 T* (para crear un diccionario que cuente la frecuencia de cada palabra. Ignora mayúsculas/minúsculas y) Tj
 T* (muestra las palabras ordenadas por frecuencia.) Tj
@@ -2338,43 +2340,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 609.5081102362204319 Td
+51.0236220472441033 598.0081102362204319 Td
 (Archivo esperado: src/ejercicio_17.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 593.8388188976377933 Td
+51.0236220472441033 582.3388188976377933 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 578.1695275590550409 Td
+51.0236220472441033 566.6695275590550409 Td
 (Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 562.5002362204725159 Td
+51.0236220472441033 551.0002362204725159 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 546.8309448818897636 Td
-(La solución es correcta, clara y eficiente. El código sigue buenas prácticas y resuelve el problema planteado de) Tj
-T* (forma completa.) Tj
+62.3622047244094517 535.3309448818897636 Td
+(Excelente solución. El código es claro, conciso y cumple con todos los requisitos del ejercicio, incluyendo el manejo) Tj
+T* (de mayúsculas/minúsculas y el ordenamiento por frecuencia.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 511.1577165354330532 Td
+39.6850393700787407 499.65771653543311 Td
 (Actividad 18: DICCIONARIOS - Ejercicio 18: Implementa una función que simule una agenda telefónica) Tj
 T* (usando un diccionario. Usa un ciclo while para mostrar un menú que permita agregar contactos, buscar) Tj
 T* (por nombre, mostrar todos los contactos y eliminar contactos.) Tj
@@ -2383,43 +2385,44 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 472.4884251968503577 Td
+51.0236220472441033 460.9884251968504714 Td
 (Archivo esperado: src/ejercicio_18.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 456.819133858267719 Td
+51.0236220472441033 445.3191338582677758 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 441.1498425196850235 Td
-(Calificación: 5.0/5.0) Tj
+51.0236220472441033 429.6498425196851372 Td
+(Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 425.4805511811023848 Td
+51.0236220472441033 413.9805511811024417 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 409.8112598425196893 Td
-(La solución es correcta y completa, implementando todas las funcionalidades requeridas de la agenda telefónica. El) Tj
-T* (código es legible y bien estructurado, siguiendo buenas prácticas.) Tj
+62.3622047244094517 398.311259842519803 Td
+(La solución funciona correctamente y cumple con los requisitos. Se puede mejorar la validación de la entrada del) Tj
+T* (usuario \(ej: formato del número de teléfono\) y considerar encapsular la lógica en funciones más pequeñas para) Tj
+T* (mayor modularidad.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 374.1380314960630358 Td
+39.6850393700787407 351.1380314960631495 Td
 (Actividad 19: DICCIONARIOS - Ejercicio 19: Crea una función que gestione las calificaciones de) Tj
 T* (estudiantes. Usa un diccionario donde la clave sea el nombre del estudiante y el valor una lista de) Tj
 T* (calificaciones. Implementa funciones para agregar estudiantes, agregar calificaciones y calcular) Tj
@@ -2429,44 +2432,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 323.9687401574802834 Td
+51.0236220472441033 300.9687401574803971 Td
 (Archivo esperado: src/ejercicio_19.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 308.2994488188976447 Td
+51.0236220472441033 285.2994488188977584 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 292.6301574803150061 Td
+51.0236220472441033 269.6301574803151198 Td
 (Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 276.9608661417323674 Td
+51.0236220472441033 253.9608661417324811 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 261.2915748031497287 Td
-(La solución es funcional y resuelve el problema planteado. Considera usar un diccionario local dentro de la función) Tj
-T* (principal en lugar de una función anidada para mayor claridad y evitar posibles problemas de alcance si se necesita) Tj
-T* (acceder al diccionario desde fuera de la función gestion_calificaciones.) Tj
+62.3622047244094517 238.2915748031498424 Td
+(La solución es funcional y cumple con los requisitos. Se sugiere encapsular el menú principal dentro de la función) Tj
+T* (`gestion_calificaciones` y remover el comentario de ejemplo para ejecutar la función directamente.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 214.1183464566929615 Td
+39.6850393700787407 202.6183464566930752 Td
 (Actividad 20: DICCIONARIOS - Ejercicio 20: Desarrolla una función que simule un sistema de registro de) Tj
 T* (temperaturas por ciudad. Usa un diccionario anidado donde cada ciudad tenga un diccionario con días de) Tj
 T* (la semana y temperaturas. Calcula estadísticas por ciudad y día.) Tj
@@ -2475,37 +2477,38 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 175.4490551181103228 Td
+51.0236220472441033 163.9490551181104365 Td
 (Archivo esperado: src/ejercicio_20.py) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 159.7797637795276842 Td
+51.0236220472441033 148.2797637795277979 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 144.1104724409450455 Td
+51.0236220472441033 132.6104724409450455 Td
 (Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 128.4411811023622931 Td
+51.0236220472441033 116.9411811023624068 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 112.7718897637796545 Td
-(La solución es funcional y cumple con los requisitos. Podría mejorar la modularización separando la lógica en) Tj
-T* (funciones más pequeñas para mayor legibilidad y reutilización.) Tj
+62.3622047244094517 101.2718897637797681 Td
+(La solución es funcional y cumple con los requisitos. Se podría mejorar la estructura general sacando el menú) Tj
+T* (principal del scope de la función `sistema_temperaturas` y generalizar la función principal para que sea mas) Tj
+T* (reutilizable en otros contextos.) Tj
 ET
 BT
 /F1 8 Tf
@@ -2550,7 +2553,7 @@ BT
 11.5 TL
 0. g
 39.6850393700787407 761.8585039370078675 Td
-(Excelente trabajo. Completó 20/20 actividades \(100%\) con una calificación promedio de 4.8/5. Demuestra buen) Tj
+(Excelente trabajo. Completó 20/20 actividades \(100%\) con una calificación promedio de 4.5/5. Demuestra buen) Tj
 T* (dominio de los conceptos.) Tj
 ET
 BT
@@ -2753,7 +2756,7 @@ endobj
 29 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250821074012-05'00')
+/CreationDate (D:20250821074244-05'00')
 >>
 endobj
 30 0 obj
@@ -2767,43 +2770,43 @@ endobj
 xref
 0 31
 0000000000 65535 f 
-0000050004 00000 n 
-0000051858 00000 n 
+0000050436 00000 n 
+0000052290 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
 0000026594 00000 n 
 0000026731 00000 n 
-0000032224 00000 n 
-0000032361 00000 n 
-0000037570 00000 n 
-0000037708 00000 n 
-0000043138 00000 n 
-0000043277 00000 n 
-0000048967 00000 n 
-0000049106 00000 n 
-0000050093 00000 n 
-0000050219 00000 n 
-0000050350 00000 n 
-0000050484 00000 n 
-0000050622 00000 n 
-0000050746 00000 n 
-0000050875 00000 n 
-0000051007 00000 n 
-0000051143 00000 n 
-0000051271 00000 n 
-0000051398 00000 n 
-0000051527 00000 n 
-0000051660 00000 n 
-0000051762 00000 n 
-0000052111 00000 n 
-0000052197 00000 n 
+0000032205 00000 n 
+0000032342 00000 n 
+0000037848 00000 n 
+0000037986 00000 n 
+0000043452 00000 n 
+0000043591 00000 n 
+0000049399 00000 n 
+0000049538 00000 n 
+0000050525 00000 n 
+0000050651 00000 n 
+0000050782 00000 n 
+0000050916 00000 n 
+0000051054 00000 n 
+0000051178 00000 n 
+0000051307 00000 n 
+0000051439 00000 n 
+0000051575 00000 n 
+0000051703 00000 n 
+0000051830 00000 n 
+0000051959 00000 n 
+0000052092 00000 n 
+0000052194 00000 n 
+0000052543 00000 n 
+0000052629 00000 n 
 trailer
 <<
 /Size 31
 /Root 30 0 R
 /Info 29 0 R
-/ID [ <96292B13D024578940325F29644E07F7> <96292B13D024578940325F29644E07F7> ]
+/ID [ <AA5322EB3586ACEE098C9F0679AB8291> <AA5322EB3586ACEE098C9F0679AB8291> ]
 >>
 startxref
-52301
+52733
 %%EOF
