@@ -1719,153 +1719,154 @@
         "solutionFile": "src/ejercicio_01.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente. El código es legible y sigue las buenas prácticas al separar la lógica en una función y luego aplicarla a la lista de prueba."
+        "feedback": "La solución es correcta, clara y cumple con todos los requisitos. El código es legible y sigue las buenas prácticas de programación."
       },
       {
         "activityDescription": "LISTAS - Ejercicio 2: Implementa una función que solicite al usuario ingresar calificaciones usando un ciclo while hasta que escriba 'fin'. Almacena las calificaciones en una lista y calcula el promedio, la nota más alta y más baja.",
         "solutionFile": "src/ejercicio_02.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es limpio, funcional y cumple con todos los requisitos de la actividad. Bien manejado el control de errores."
+        "feedback": "Excelente solución. El código es claro, funcional y maneja correctamente la entrada del usuario, incluyendo la validación y el caso de no ingresar calificaciones."
       },
       {
         "activityDescription": "LISTAS - Ejercicio 3: Crea una función que reciba dos listas de igual tamaño y use un ciclo for para combinarlas elemento por elemento en una nueva lista. Ejemplo: [1,2,3] + ['a','b','c'] = [1,'a',2,'b',3,'c'].",
         "solutionFile": "src/ejercicio_03.py",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente. El código es legible, bien estructurado y maneja el caso de listas de diferente tamaño. ¡Excelente trabajo!"
+        "feedback": "La solución es correcta, eficiente y legible. El código incluye manejo de errores y buenas prácticas en general."
       },
       {
         "activityDescription": "LISTAS - Ejercicio 4: Desarrolla una función que simule un carrito de compras. Usa una lista para almacenar productos y un ciclo while para mostrar un menú que permita agregar, eliminar, mostrar productos y calcular el total.",
         "solutionFile": "src/ejercicio_04.py",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución cumple con los requisitos principales y funciona correctamente. Se podría mejorar el manejo de la eliminación de productos para evitar el `if not encontrado` dentro del bucle. Considera usar un diccionario en lugar de una lista de tuplas para una mejor estructura."
+        "feedback": "La solución cumple con los requisitos y es funcional. La lógica para eliminar productos puede mejorarse para evitar errores si el producto no existe. Considera usar funciones para modularizar aún más el código."
       },
       {
         "activityDescription": "LISTAS - Ejercicio 5: Implementa una función que reciba una lista de palabras y use ciclos anidados para encontrar y devolver todas las palabras que contienen una letra específica ingresada por el usuario.",
         "solutionFile": "src/ejercicio_05.py",
-        "score": 4,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional. Bien por el uso del `break` para evitar duplicados. Considera agregar manejo de errores para entradas inválidas (e.g., entrada vacía)."
+        "feedback": "Excelente solución. El código es funcional, legible y eficiente, evitando duplicados en la lista de resultados. Bien hecho."
       },
       {
         "activityDescription": "TUPLAS - Ejercicio 6: Crea una función que genere una tupla con las coordenadas (x, y) de 10 puntos aleatorios. Usa un ciclo for para calcular cuáles puntos están dentro de un círculo de radio 5 centrado en el origen.",
         "solutionFile": "src/ejercicio_06.py",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional. Se podría mejorar la legibilidad encapsulando la lógica de verificación dentro del círculo en una función separada para mejor modularidad y reutilización."
+        "feedback": "La solución es correcta y funcional. Se podría mejorar la legibilidad separando la generación de coordenadas y el filtrado de puntos en funciones separadas para mejor organización del código."
       },
       {
         "activityDescription": "TUPLAS - Ejercicio 7: Desarrolla una función que reciba una tupla de estudiantes (nombre, edad, promedio) y use un ciclo for para encontrar y devolver una nueva tupla solo con los estudiantes que tienen promedio mayor a 8.0.",
         "solutionFile": "src/ejercicio_07.py",
         "score": 2,
         "fileFound": true,
-        "feedback": "La solución no cumple con la descripción del problema (tupla de estudiantes con nombre, edad y promedio). Además, debería devolver una nueva tupla en lugar de imprimir directamente en la función."
+        "feedback": "El código no cumple con la descripción del problema. No recibe una tupla de estudiantes como entrada y no devuelve una nueva tupla con los estudiantes destacados. El código simplemente imprime los estudiantes con promedio mayor o igual a 3.5."
       },
       {
         "activityDescription": "TUPLAS - Ejercicio 8: Implementa una función que cree una tupla con los primeros 20 números de la secuencia de Fibonacci. Usa un ciclo while para generar la secuencia y luego un ciclo for para mostrar solo los números impares.",
         "solutionFile": "src/ejercicio_08.py",
-        "score": 0,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código entregado no corresponde con la descripción del ejercicio (generar la secuencia de Fibonacci y mostrar los impares). El código dado cuenta la frecuencia de colores favoritos, lo que indica un error en la entrega o un malentendido del problema."
+        "feedback": "El código no implementa la secuencia de Fibonacci ni cumple con los requisitos del ejercicio planteado. En cambio, realiza un conteo de colores favoritos. Debe rehacerse completamente."
       },
       {
         "activityDescription": "TUPLAS - Ejercicio 9: Crea una función que simule un sistema de coordenadas. Recibe una tupla de puntos (x, y) y usa ciclos para calcular la distancia total recorrida si se visitan todos los puntos en orden.",
         "solutionFile": "src/ejercicio_09.py",
         "score": 1,
         "fileFound": true,
-        "feedback": "La solución provista elimina duplicados de una tupla de nombres, pero no cumple con el objetivo principal del ejercicio que era calcular la distancia total recorrida en un sistema de coordenadas. El código necesita ser reescrito para implementar la lógica solicitada en la descripción del problema."
+        "feedback": "El código proporcionado no resuelve el problema planteado (cálculo de la distancia total recorrida en un sistema de coordenadas). En cambio, elimina duplicados de una tupla de nombres. Es necesario implementar la lógica para calcular la distancia entre puntos y sumarlos."
       },
       {
         "activityDescription": "TUPLAS - Ejercicio 10: Desarrolla una función que reciba dos tuplas de igual longitud y use un ciclo for para crear una nueva tupla con la suma de elementos correspondientes. Ejemplo: (1,2,3) + (4,5,6) = (5,7,9).",
         "solutionFile": "src/ejercicio_10.py",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código no resuelve el problema planteado (suma de tuplas). Implementa una función diferente que filtra nombres. Debes enfocarte en entender y cumplir los requisitos de la actividad."
+        "feedback": "El código entregado no resuelve el problema planteado sobre la suma de tuplas. En su lugar, filtra nombres que contienen la letra 'a'. Es necesario implementar la lógica de suma de tuplas usando un ciclo for."
       },
       {
         "activityDescription": "CONJUNTOS - Ejercicio 11: Crea una función que reciba dos listas y use ciclos for para convertirlas en conjuntos. Luego calcula y muestra la unión, intersección, diferencia y diferencia simétrica entre ambos conjuntos.",
         "solutionFile": "src/ejercicio_11.py",
         "score": 2,
         "fileFound": true,
-        "feedback": "La solución solo muestra un conjunto a partir de una lista y su longitud, pero no recibe dos listas como entrada, ni calcula la unión, intersección, diferencia y diferencia simétrica.  Además, el código debería seguir la descripción de la actividad (usar ciclos for para convertir listas en conjuntos) y no usar directamente `set()`."
+        "feedback": "El código solo maneja una lista fija y muestra un conjunto sin duplicados. No cumple con la descripción del ejercicio, que pide crear una función que reciba dos listas, las convierta en conjuntos usando ciclos for, y calcule la unión, intersección, diferencia y diferencia simétrica."
       },
       {
         "activityDescription": "CONJUNTOS - Ejercicio 12: Implementa una función que solicite al usuario ingresar palabras usando un ciclo while hasta que escriba 'salir'. Almacena las palabras en un conjunto y muestra cuántas palabras únicas se ingresaron y cuáles se repitieron.",
         "solutionFile": "src/ejercicio_12.py",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código no cumple con la descripción de la actividad. En lugar de solicitar palabras al usuario y almacenarlas en un conjunto hasta que escriba 'salir', simplemente calcula la intersección de dos conjuntos predefinidos.  Debe implementar la lógica de entrada de usuario y el uso del conjunto como se describe en la consigna."
+        "feedback": "El código no resuelve el problema planteado. Implementa la intersección de dos conjuntos predefinidos en lugar de solicitar palabras al usuario e identificar repetidas."
       },
       {
         "activityDescription": "CONJUNTOS - Ejercicio 13: Desarrolla una función que genere dos conjuntos: uno con números pares del 2 al 20 y otro con múltiplos de 3 del 3 al 30. Usa ciclos for para crear los conjuntos y muestra todas las operaciones entre ellos.",
         "solutionFile": "src/ejercicio_13.py",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código no resuelve el problema planteado (generar conjuntos de números pares y múltiplos de 3 y realizar operaciones entre ellos). En su lugar, realiza operaciones con un conjunto de frutas. El código debe ser reescrito para cumplir con la descripción de la actividad."
+        "feedback": "El código presentado no corresponde a la descripción de la actividad (Conjuntos con pares y múltiplos de 3). El código actual elimina un elemento de un conjunto de frutas, lo cual es incorrecto."
       },
       {
         "activityDescription": "CONJUNTOS - Ejercicio 14: Crea una función que simule un sistema de votación. Usa un conjunto para almacenar los votos únicos y un ciclo while para permitir que múltiples usuarios voten. Al final, muestra los candidatos que recibieron votos.",
         "solutionFile": "src/ejercicio_14.py",
         "score": 0,
         "fileFound": true,
-        "feedback": "El código entregado no resuelve el problema planteado. El código provisto imprime la edad de personas desde un diccionario, en lugar de simular un sistema de votación utilizando conjuntos y un ciclo while."
+        "feedback": "El código no resuelve el problema planteado de simular un sistema de votación. En cambio, imprime la edad de personas desde un diccionario. Es necesario revisar y rehacer la actividad."
       },
       {
         "activityDescription": "CONJUNTOS - Ejercicio 15: Implementa una función que reciba una lista de números con duplicados y use un ciclo for para crear un conjunto con números únicos. Luego compara el tamaño original vs el conjunto para mostrar cuántos duplicados había.",
         "solutionFile": "src/ejercicio_15.py",
-        "score": 0,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código proporcionado no resuelve el problema planteado en la descripción del ejercicio. Implementa una función para imprimir nombres de personas mayores de 25 años, en lugar de crear un conjunto a partir de una lista con duplicados y contar los duplicados."
+        "feedback": "La solución no resuelve el problema planteado (conjuntos y conteo de duplicados). El código presentado corresponde a un problema diferente relacionado con diccionarios e impresión de nombres. Es necesario implementar la lógica solicitada utilizando conjuntos y un ciclo for."
       },
       {
         "activityDescription": "DICCIONARIOS - Ejercicio 16: Crea una función que simule un inventario de productos. Usa un diccionario para almacenar producto:cantidad y un ciclo while para mostrar un menú que permita agregar, actualizar, eliminar productos y mostrar el inventario completo.",
         "solutionFile": "src/ejercicio_16.py",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código no implementa la funcionalidad requerida de inventario con agregar, actualizar, eliminar productos y mostrar el inventario. Hay un error lógico `if producto in producto:` que siempre será falso y el diccionario `productos` está hardcodeado y no permite la manipulación interactiva."
+        "feedback": "El código no implementa la funcionalidad requerida de un inventario con agregar/actualizar/eliminar. El código provisto calcula el total de una compra y tiene un error lógico en la iteración `if producto in producto:`. "
       },
       {
         "activityDescription": "DICCIONARIOS - Ejercicio 17: Desarrolla una función que reciba una frase y use un ciclo for para crear un diccionario que cuente la frecuencia de cada palabra. Ignora mayúsculas/minúsculas y muestra las palabras ordenadas por frecuencia.",
         "solutionFile": "src/ejercicio_17.py",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código entregado no resuelve la actividad descrita (conteo de frecuencia de palabras en una frase). En cambio, encuentra el estudiante con la nota más alta en un diccionario predefinido.  Necesitas implementar la lógica solicitada en la descripción del ejercicio."
+        "feedback": "El código presentado no resuelve el problema planteado. En lugar de contar la frecuencia de las palabras en una frase, encuentra al estudiante con la nota más alta en un diccionario predefinido."
       },
       {
         "activityDescription": "DICCIONARIOS - Ejercicio 18: Implementa una función que simule una agenda telefónica usando un diccionario. Usa un ciclo while para mostrar un menú que permita agregar contactos, buscar por nombre, mostrar todos los contactos y eliminar contactos.",
         "solutionFile": "src/ejercicio_18.py",
-        "score": 1,
-        "fileFound": true,
-        "feedback": "El código entregado no corresponde a la descripción del ejercicio (agenda telefónica). Implementa un cálculo del total de una compra, lo cual no cumple con lo solicitado. Debes enfocarte en implementar la funcionalidad requerida usando diccionarios y un ciclo while."
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
       },
       {
         "activityDescription": "DICCIONARIOS - Ejercicio 19: Crea una función que gestione las calificaciones de estudiantes. Usa un diccionario donde la clave sea el nombre del estudiante y el valor una lista de calificaciones. Implementa funciones para agregar estudiantes, agregar calificaciones y calcular promedios.",
         "solutionFile": "src/ejercicio_19.py",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código no cumple con la descripción de la actividad. Se esperaba la gestión de calificaciones de estudiantes usando diccionarios y funciones para agregar, calificar y calcular promedios, en cambio, el código dado solo imprime nombres de personas mayores de edad a partir de un diccionario predefinido."
+        "feedback": "La solución no implementa la funcionalidad solicitada en la descripción del ejercicio (gestión de calificaciones con diccionarios). El código presentado imprime nombres de personas mayores de edad, que no corresponde con la actividad. Es necesario ajustar el código para cumplir con la gestión de estudiantes y sus calificaciones."
       },
       {
         "activityDescription": "DICCIONARIOS - Ejercicio 20: Desarrolla una función que simule un sistema de registro de temperaturas por ciudad. Usa un diccionario anidado donde cada ciudad tenga un diccionario con días de la semana y temperaturas. Calcula estadísticas por ciudad y día.",
         "solutionFile": "src/ejercicio_20.py",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código presentado calcula el promedio de notas de estudiantes, no simula un sistema de registro de temperaturas por ciudad como se solicitaba. La implementación no cumple con los requisitos del ejercicio planteado."
+        "feedback": "La solución presentada no corresponde a la descripción del ejercicio (registro de temperaturas por ciudad usando diccionarios anidados).  En su lugar, calcula promedios de notas de estudiantes. Es necesario implementar la lógica solicitada en la descripción."
       }
     ],
-    "overallScore": 2,
+    "overallScore": 2.1,
     "totalActivities": 20,
-    "completedActivities": 17,
-    "summary": "Necesita mejorar. Completó 17/20 actividades (85%) con una calificación promedio de 2.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "completedActivities": 18,
+    "summary": "Necesita mejorar. Completó 18/20 actividades (90%) con una calificación promedio de 2.1/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
+      "Completar los archivos faltantes: src/ejercicio_18.py",
       "Revisar y mejorar las actividades con calificación baja",
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-21T12:52:44.929Z",
-    "evaluatedBy": "Sistema de Evaluación de No Calificados"
+    "evaluatedAt": "2025-08-21T13:55:28.294Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
   },
   "leandro760/act_ntp_s4": {
     "repositoryUrl": "leandro760/act_ntp_s4",
